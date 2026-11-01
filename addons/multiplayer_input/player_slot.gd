@@ -160,3 +160,4 @@ func _check_action(action: String, mode: int) -> bool:
 				2: return not Input.is_key_pressed(key)
 				
 	return false
+

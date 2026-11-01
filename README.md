@@ -73,3 +73,4 @@ Das Addon verfügt über eine eigenständige Testsuite:
 ## 📄 Lizenz
 
 MIT License – Copyright (c) 2026 [Italbytz](https://github.com/Italbytz)
+
